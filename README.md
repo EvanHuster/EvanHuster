@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Note: This is the github for lehigh user (exh226)
 
 <!--
 **EvanHuster/EvanHuster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
